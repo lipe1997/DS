@@ -1,0 +1,27 @@
+c:\Users\ADM\documents\visual studio 2013\Projects\ADM_UI\ADM_BLL\obj\Debug\ADM_BLL.csprojResolveAssemblyReference.cache
+c:\Users\ADM\documents\visual studio 2013\Projects\ADM_UI\ADM_BLL\bin\Debug\ADM_BLL.dll
+c:\Users\ADM\documents\visual studio 2013\Projects\ADM_UI\ADM_BLL\bin\Debug\ADM_BLL.pdb
+c:\Users\ADM\documents\visual studio 2013\Projects\ADM_UI\ADM_BLL\bin\Debug\ADM_DAL.dll
+c:\Users\ADM\documents\visual studio 2013\Projects\ADM_UI\ADM_BLL\bin\Debug\ADM_DTO.dll
+c:\Users\ADM\documents\visual studio 2013\Projects\ADM_UI\ADM_BLL\bin\Debug\ADM_DAL.pdb
+c:\Users\ADM\documents\visual studio 2013\Projects\ADM_UI\ADM_BLL\bin\Debug\ADM_DTO.pdb
+c:\Users\ADM\documents\visual studio 2013\Projects\ADM_UI\ADM_BLL\obj\Debug\ADM_BLL.dll
+c:\Users\ADM\documents\visual studio 2013\Projects\ADM_UI\ADM_BLL\obj\Debug\ADM_BLL.pdb
+L:\DS\ADM_UI\ADM_BLL\bin\Debug\ADM_BLL.dll
+L:\DS\ADM_UI\ADM_BLL\bin\Debug\ADM_BLL.pdb
+L:\DS\ADM_UI\ADM_BLL\bin\Debug\ADM_DAL.dll
+L:\DS\ADM_UI\ADM_BLL\bin\Debug\ADM_DTO.dll
+L:\DS\ADM_UI\ADM_BLL\bin\Debug\ADM_DAL.pdb
+L:\DS\ADM_UI\ADM_BLL\bin\Debug\ADM_DTO.pdb
+L:\DS\ADM_UI\ADM_BLL\obj\Debug\ADM_BLL.csprojResolveAssemblyReference.cache
+L:\DS\ADM_UI\ADM_BLL\obj\Debug\ADM_BLL.dll
+L:\DS\ADM_UI\ADM_BLL\obj\Debug\ADM_BLL.pdb
+G:\DS\ADM_UI\ADM_BLL\bin\Debug\ADM_BLL.dll
+G:\DS\ADM_UI\ADM_BLL\bin\Debug\ADM_BLL.pdb
+G:\DS\ADM_UI\ADM_BLL\bin\Debug\ADM_DAL.dll
+G:\DS\ADM_UI\ADM_BLL\bin\Debug\ADM_DTO.dll
+G:\DS\ADM_UI\ADM_BLL\bin\Debug\ADM_DAL.pdb
+G:\DS\ADM_UI\ADM_BLL\bin\Debug\ADM_DTO.pdb
+G:\DS\ADM_UI\ADM_BLL\obj\Debug\ADM_BLL.dll
+G:\DS\ADM_UI\ADM_BLL\obj\Debug\ADM_BLL.pdb
+G:\DS\ADM_UI\ADM_BLL\obj\Debug\ADM_BLL.csprojResolveAssemblyReference.cache

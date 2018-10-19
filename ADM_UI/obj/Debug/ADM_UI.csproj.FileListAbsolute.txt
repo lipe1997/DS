@@ -1,0 +1,48 @@
+c:\users\adm\documents\visual studio 2013\Projects\ADM_UI\ADM_UI\bin\Debug\ADM_UI.exe.config
+c:\users\adm\documents\visual studio 2013\Projects\ADM_UI\ADM_UI\obj\Debug\ADM_UI.csprojResolveAssemblyReference.cache
+c:\users\adm\documents\visual studio 2013\Projects\ADM_UI\ADM_UI\obj\Debug\ADM_UI.ADM_Home.resources
+c:\users\adm\documents\visual studio 2013\Projects\ADM_UI\ADM_UI\obj\Debug\ADM_UI.ADM_Login.resources
+c:\users\adm\documents\visual studio 2013\Projects\ADM_UI\ADM_UI\obj\Debug\ADM_UI.Properties.Resources.resources
+c:\users\adm\documents\visual studio 2013\Projects\ADM_UI\ADM_UI\obj\Debug\ADM_UI.csproj.GenerateResource.Cache
+c:\users\adm\documents\visual studio 2013\Projects\ADM_UI\ADM_UI\bin\Debug\ADM_UI.exe
+c:\users\adm\documents\visual studio 2013\Projects\ADM_UI\ADM_UI\bin\Debug\ADM_UI.pdb
+c:\users\adm\documents\visual studio 2013\Projects\ADM_UI\ADM_UI\bin\Debug\ADM_BLL.dll
+c:\users\adm\documents\visual studio 2013\Projects\ADM_UI\ADM_UI\bin\Debug\ADM_DTO.dll
+c:\users\adm\documents\visual studio 2013\Projects\ADM_UI\ADM_UI\bin\Debug\ADM_DAL.dll
+c:\users\adm\documents\visual studio 2013\Projects\ADM_UI\ADM_UI\bin\Debug\ADM_BLL.pdb
+c:\users\adm\documents\visual studio 2013\Projects\ADM_UI\ADM_UI\bin\Debug\ADM_DTO.pdb
+c:\users\adm\documents\visual studio 2013\Projects\ADM_UI\ADM_UI\bin\Debug\ADM_DAL.pdb
+c:\users\adm\documents\visual studio 2013\Projects\ADM_UI\ADM_UI\obj\Debug\ADM_UI.exe
+c:\users\adm\documents\visual studio 2013\Projects\ADM_UI\ADM_UI\obj\Debug\ADM_UI.pdb
+L:\DS\ADM_UI\ADM_UI\bin\Debug\ADM_UI.exe.config
+L:\DS\ADM_UI\ADM_UI\obj\Debug\ADM_UI.exe
+L:\DS\ADM_UI\ADM_UI\obj\Debug\ADM_UI.pdb
+L:\DS\ADM_UI\ADM_UI\bin\Debug\ADM_UI.exe
+L:\DS\ADM_UI\ADM_UI\bin\Debug\ADM_UI.pdb
+L:\DS\ADM_UI\ADM_UI\bin\Debug\ADM_BLL.dll
+L:\DS\ADM_UI\ADM_UI\bin\Debug\ADM_DTO.dll
+L:\DS\ADM_UI\ADM_UI\bin\Debug\ADM_DAL.dll
+L:\DS\ADM_UI\ADM_UI\bin\Debug\ADM_BLL.pdb
+L:\DS\ADM_UI\ADM_UI\bin\Debug\ADM_DTO.pdb
+L:\DS\ADM_UI\ADM_UI\bin\Debug\ADM_DAL.pdb
+L:\DS\ADM_UI\ADM_UI\obj\Debug\ADM_UI.csprojResolveAssemblyReference.cache
+L:\DS\ADM_UI\ADM_UI\obj\Debug\ADM_UI.ADM_Home.resources
+L:\DS\ADM_UI\ADM_UI\obj\Debug\ADM_UI.ADM_Login.resources
+L:\DS\ADM_UI\ADM_UI\obj\Debug\ADM_UI.Properties.Resources.resources
+L:\DS\ADM_UI\ADM_UI\obj\Debug\ADM_UI.csproj.GenerateResource.Cache
+G:\DS\ADM_UI\ADM_UI\bin\Debug\ADM_UI.exe.config
+G:\DS\ADM_UI\ADM_UI\bin\Debug\ADM_UI.exe
+G:\DS\ADM_UI\ADM_UI\bin\Debug\ADM_UI.pdb
+G:\DS\ADM_UI\ADM_UI\bin\Debug\ADM_BLL.dll
+G:\DS\ADM_UI\ADM_UI\bin\Debug\ADM_DTO.dll
+G:\DS\ADM_UI\ADM_UI\bin\Debug\ADM_DAL.dll
+G:\DS\ADM_UI\ADM_UI\bin\Debug\ADM_BLL.pdb
+G:\DS\ADM_UI\ADM_UI\bin\Debug\ADM_DTO.pdb
+G:\DS\ADM_UI\ADM_UI\bin\Debug\ADM_DAL.pdb
+G:\DS\ADM_UI\ADM_UI\obj\Debug\ADM_UI.ADM_Home.resources
+G:\DS\ADM_UI\ADM_UI\obj\Debug\ADM_UI.ADM_Login.resources
+G:\DS\ADM_UI\ADM_UI\obj\Debug\ADM_UI.Properties.Resources.resources
+G:\DS\ADM_UI\ADM_UI\obj\Debug\ADM_UI.csproj.GenerateResource.cache
+G:\DS\ADM_UI\ADM_UI\obj\Debug\ADM_UI.exe
+G:\DS\ADM_UI\ADM_UI\obj\Debug\ADM_UI.pdb
+G:\DS\ADM_UI\ADM_UI\obj\Debug\ADM_UI.csprojResolveAssemblyReference.cache

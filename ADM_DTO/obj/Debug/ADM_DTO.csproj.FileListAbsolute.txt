@@ -1,0 +1,15 @@
+c:\Users\ADM\documents\visual studio 2013\Projects\ADM_UI\ADM_DTO\bin\Debug\ADM_DTO.dll
+c:\Users\ADM\documents\visual studio 2013\Projects\ADM_UI\ADM_DTO\bin\Debug\ADM_DTO.pdb
+c:\Users\ADM\documents\visual studio 2013\Projects\ADM_UI\ADM_DTO\obj\Debug\ADM_DTO.csprojResolveAssemblyReference.cache
+c:\Users\ADM\documents\visual studio 2013\Projects\ADM_UI\ADM_DTO\obj\Debug\ADM_DTO.dll
+c:\Users\ADM\documents\visual studio 2013\Projects\ADM_UI\ADM_DTO\obj\Debug\ADM_DTO.pdb
+L:\DS\ADM_UI\ADM_DTO\bin\Debug\ADM_DTO.dll
+L:\DS\ADM_UI\ADM_DTO\bin\Debug\ADM_DTO.pdb
+L:\DS\ADM_UI\ADM_DTO\obj\Debug\ADM_DTO.csprojResolveAssemblyReference.cache
+L:\DS\ADM_UI\ADM_DTO\obj\Debug\ADM_DTO.dll
+L:\DS\ADM_UI\ADM_DTO\obj\Debug\ADM_DTO.pdb
+G:\DS\ADM_UI\ADM_DTO\bin\Debug\ADM_DTO.dll
+G:\DS\ADM_UI\ADM_DTO\bin\Debug\ADM_DTO.pdb
+G:\DS\ADM_UI\ADM_DTO\obj\Debug\ADM_DTO.dll
+G:\DS\ADM_UI\ADM_DTO\obj\Debug\ADM_DTO.pdb
+G:\DS\ADM_UI\ADM_DTO\obj\Debug\ADM_DTO.csprojResolveAssemblyReference.cache
